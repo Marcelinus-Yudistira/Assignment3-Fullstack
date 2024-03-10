@@ -1,0 +1,87 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Chicken",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Chicken Burger",
+      "price": "$1120",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam edit",
+      "image": "/src/assets/img/menu-4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chicken Burger",
+      "price": "$11500",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Chicken Burger",
+      "price": "$115",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Chicken Burger",
+      "price": "$125",
+      "detail": "Ipsum ipsum clita erat amet dolor justo diam",
+      "image": "/src/assets/img/menu-8.jpg"
+    },
+    {
+      "name": "Nasi Padang edit",
+      "price": "$14 edit",
+      "detail": "Pedas enak edit",
+      "image": "/src/asset/img/menu2",
+      "id": "9"
+    }
+  ],
+  "bookings": [
+    {
+      "name": "Lala",
+      "email": "apravida@hacktiv8.com",
+      "people": "3",
+      "booking_date": "2024-01-06T20:26",
+      "special_request": "no",
+      "created_date": "2023-12-25T13:26:23.363Z",
+      "id": "1"
+    },
+    {
+      "id": 2,
+      "name": "Marcel",
+      "email": "marcel@gmail.com",
+      "people": 2,
+      "booking_date": "2024-03-03",
+      "special_request": "Meja lingkaran dan candle light",
+      "created_at": "2024-03-10T16:08:03.179Z"
+    }
+  ]
+}
